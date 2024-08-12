@@ -1,6 +1,6 @@
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
-    print(f'Hola, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+    print(f'Hola como estas, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
 
 if __name__ == '__main__':
